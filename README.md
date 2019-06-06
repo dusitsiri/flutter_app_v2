@@ -44,7 +44,7 @@ flutter run
 
 ### Acknowledgments
 
-- Yarn
-- Git
+- [Yarn](https://yarnpkg.com/lang/en/)
+- [Git](https://git-scm.com/)
 - [Knex](https://knexjs.org/#Installation)
 

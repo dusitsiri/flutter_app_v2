@@ -39,7 +39,7 @@ flutter run
 
 ### License
 
-- Knex is available for use under the [MIT software license.](https://github.com/tgriesser/knex/blob/master/LICENSE)
+- Flutter is available licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the BSD License.
 
 
 ### Acknowledgments
